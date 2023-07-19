@@ -1,0 +1,43 @@
+[
+  {
+    "value": "AB",
+    "label": "UPDATE AB"
+  },
+  {
+    "value": "P",
+    "label": "UPDATE P"
+  },
+  {
+    "value": "A",
+    "label": "Noodplan"
+  },
+  {
+    "value": "B",
+    "label": "Familiestatuut"
+  },
+  {
+    "value": "L",
+    "label": "Familiestatuut AGRO"
+  },
+  {
+    "value": "H",
+    "label": "Exit plannning"
+  },
+  {
+    "value": "I",
+    "label": "Cyber security"
+  },
+  {
+    "value": "J",
+    "label": "Digitale strategie"
+  },
+  {
+    "value": "M",
+    "label": "Pensioen werkgever"
+  },
+  {
+    "value": "KTV1",
+    "label": "Klanttevredenheid 1"
+  }
+
+]

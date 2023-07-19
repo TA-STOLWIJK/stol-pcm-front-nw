@@ -1,0 +1,18 @@
+{
+  "x": 0.3,
+  "y": 1.0,
+  "w": 3.0,
+  "h": 3.0,
+  "chartArea": { "fill": { "color": "FFFFFF" } },
+  "chartColors": ["7AB800", "FF0000", "F2AF00", "A9A9A9", "4472C4", "672C7E"],
+  "dataBorder": { "pt": 2, "color": "F1F1F1" },
+  "legendPos": "b",
+  "legendFontFace": "Calibri",
+  "showLegend": true,
+  "showLeaderLines": false,
+  "showPercent": false,
+  "showValue": true,
+  "dataLabelColor": "FFFFFF",
+  "dataLabelFontSize": 14,
+  "dataLabelPosition": "bestFit"
+}

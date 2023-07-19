@@ -1,0 +1,34 @@
+[
+  {
+    "value": 1,
+    "label": "Bouw"
+  },
+  {
+    "value": 2,
+    "label": "Agrarisch"
+  },
+  {
+    "value": 3,
+    "label": "Zakelijke dienstverlening"
+  },
+  {
+    "value": 4,
+    "label": "Persoonlijke dienstverlening"
+  },
+  {
+    "value": 5,
+    "label": "Transport"
+  },
+  {
+    "value": 6,
+    "label": "Leisure"
+  },
+  {
+    "value": 7,
+    "label": "Onroerend goed"
+  },
+  {
+    "value": 8,
+    "label": "Overig"
+  }
+]

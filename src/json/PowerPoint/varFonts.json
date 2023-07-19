@@ -1,0 +1,60 @@
+{
+  "FontTextBlock":
+  {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "breakLine": true
+  },
+  "FontTextBlockAlignCenter":
+  {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "breakLine": true,
+    "align": "center"
+  },
+  "FontTextBlockBold":
+  {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "breakLine": true,
+    "bold": true
+  },
+  "FontTextBlockBullet":
+  {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "valign": "top",
+    "bullet": {"indent": 16},
+    "breakLine": true
+  },
+  "FontTextBlockHeader": {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "breakLine": true
+  },
+  "FontTextBlockLeftHeader": {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "0088cc",
+    "breakLine": true
+  },
+  "FontTextBlockNoNewLine": {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "valign": "top"
+  },
+  "FontTextBlockNormal":
+  {
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040",
+    "valign": "top"
+  }
+
+}

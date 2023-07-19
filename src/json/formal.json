@@ -1,0 +1,10 @@
+[
+  {
+    "value": "formeel",
+    "label": "Formeel"
+  },
+  {
+    "value": "informeel",
+    "label": "Informeel"
+  }
+]

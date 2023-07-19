@@ -1,0 +1,23 @@
+{
+  "title": "CyberSecurity",
+  "target": "Digitale processen vormen het 'zenuwstelsel' van een onderneming, omdat ze onmisbaar zijn voor het ongestoord functioneren daarvan. Cyberaanvallen tasten dit zenuwstelsel aan en kunnen uiteindelijk leiden tot verlamming. Deze Personal QuickScan legt de ondernemer een aantal dilemma’s op het gebied van Cyber Security voor. ",
+  "number": 6,
+  "stelling1": "Ik voel mij comfortabel bij de wijze waarop mijn onderneming bestand is tegen cyberaanvallen.",
+  "type1": "slider",
+  "stelling2": "Ik heb voldoende vertrouwen in mijn IT partners bij wie ik diensten inkoop.",
+  "type2": "meerkeuze",
+  "stelling3": "Toegang tot onze bedrijfsinformatie is voldoende beveiligd, aparte toegang buiten de eigen bedrijfsinformatie om.",
+  "type3": "meerkeuze",
+  "stelling4": "Back-ups worden gemaakt met de frequentie die bij ons bedrijf past.",
+  "type4": "meerkeuze",
+  "stelling5": "Ik heb er vertrouwen in dat wij onze data spoedig kunnen terughalen na een cyber incident.",
+  "type5": "meerkeuze",
+  "stelling6": "Heeft u behoefte aan een vrijblijvende kennismaking met een CyberSecurity specialist?",
+  "type6": "meerkeuze",
+  
+  "extraInfo": "Indien deze dienstverlening buiten het kantoor ligt, kan de klant worden doorverwezen naar een netwerkpartner.",
+  "one": "Inventariseren van bescherming tegen CyberSecurity",
+  "two": "App, PDF, PowerPoint",
+  "three": "Relatiemanager voert zelfstandig het gesprek",
+  "four": "Afhankelijk van netwerkpartner"
+}

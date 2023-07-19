@@ -1,0 +1,36 @@
+{
+  "TableBlockLeftOneCol": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 5.8,
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "TableBlockLeftTwoCol": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 6,
+    "colW": [4.5, 1.5],
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "TableBlockLeftThreeCol": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 9,
+    "colW": [2.0, 6, 1.0],
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "PlaceTableBlock": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 9.4,
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  }
+}

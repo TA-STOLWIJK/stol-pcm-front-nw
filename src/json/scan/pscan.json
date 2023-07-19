@@ -1,0 +1,62 @@
+{
+  "sheet-one": {
+    "header": "QuickScan Update",
+    "text_a": "Breder kijken dan alleen de jaarrekening",
+    "text_b": "Aandacht voor (eventueel) onderbelichte zaken",
+    "text_c": "Pro-actiever van dienst zijn",
+    "text_d": "Om u zo goed mogelijk te kunnen ondersteunen willen wij graag zicht hebben op wat uw prioriteiten voor de komende tijd zijn."
+  },
+  "sheet-two": {
+    "header": "Werkwijze",
+    "text_a": "Op basis van uw antwoorden maakten wij de inschatting van de prioriteit van deze onderwerpen.",
+    "text_b": "Hiervoor gebruiken wij twee assen. De horizontale as die mate van belangrijkheid aangeeft en de verticale as die de mate van urgentie aangeeft.",
+    "text_c": "Onderstaand treft u deze matrix aan.",
+    "text_d": "Uit deze matrix volgt:",
+    "text_e": "Onderwerpen die belangrijk zijn en waarvan de urgentie hoog is, hebben voor u prioriteit. Hieraan besteden we op korte termijn aandacht.",
+    "text_f": "Onderwerpen die minder belangrijk zijn en waarvan de urgentie laag is, zijn voor u geen prioriteit. Hieraan besteden we zo min mogelijk aandacht.",
+    "text_g": "Onderwerpen die minder belangrijk zijn of waarvan de urgentie laag is, zijn voor u mogelijk een prioriteit. Voor deze onderwerpen bespreken we welke aandacht nodig is.",
+    "text_h": "Op deze wijze kunnen wij de zaken die voor u van belang zijn de juiste prioriteit geven.",
+    "text_i": "",
+    "text_j": "",
+    "text_k": ""
+  },
+  "samen": {
+    "header": "Samenvatting",
+    "headerB": "Samenvatting II",
+    "headerC": "Samenvatting III",
+    "text_a": "Onderwerp",
+    "text_b": "Vraag",
+    "text_c": "Score-Prioriteit",
+    "text_d": "Bedrijfsvoering",
+    "text_e": "Ik ondervind of voorzie problemen met de bedrijfsvoering en/of het rendement in mijn onderneming.",
+    "text_f": "Personeelsbeleid",
+    "text_g": "Ik verwacht dat het personeelsbeleid van mijn onderneming voldoende marktconform is om personeel te behouden en nieuw personeel te werven.",
+    "text_h": "Financieringsbehoefte",
+    "text_i": "Ik heb inzicht in mijn financieringsbehoefte, voor nu en de komende vijf jaar.",
+    "text_j": "Visie op de toekomst",
+    "text_k": "Ik heb een goed beeld van hoe de ontwikkeling van mijn onderneming er op de (middel)lange termijn (5-10 jaar) uit zou moeten komen te zien.",
+    "text_l": "Ondernemerschap",
+    "text_m": "Ik voorzie dat bedrijfsverkoop, -overdracht of -beëindiging in de komende jaren gaat spelen en wil aan de slag of ben bezig om mij hierop voor te bereiden.",
+    "text_n": "Inkomen en vermogen",
+    "text_o": "Ik heb inzicht in mijn (toekomstige) inkomen en vermogen, dat beschikbaar is tijdens en na afloop van mijn ondernemerschap.",
+    "text_p": "Fiscale aspecten",
+    "text_q": "Ik verwacht dat mijn eigen omstandigheden of de fiscale wet- en regelgeving zodanig zijn veranderd, of gaan veranderen, dat ik hierover contact moet opnemen met mijn fiscalist.",
+    "text_r": "Juridische aspecten",
+    "text_s": "Ik verwacht dat de juridische aspecten van mijn onderneming actueel, passend en op orde zijn.",
+    "text_t": "Duurzaamheid",
+    "text_u": "Ik ben in voldoende mate bezig met duurzaamheid en maatschappelijke verantwoord ondernemen, om met mijn onderneming te voldoen aan de (toekomstige) verwachtingen en ontwikkelingen van klanten, leveranciers, banken en de overheid.",
+    "text_v": "Andere onderwerpen",
+    "text_w": "Heeft u of voorziet u andere vraagstukken dan vermeld, die voor u belangrijk en urgent zijn?"
+  },
+  "alg": {
+    "text_a": "Uw antwoord op een schaal van -100 tot 100 was: ",
+    "text_b": "Onze aanname van uw prioriteit: ",
+    "text_c": "Onze vragen:",
+    "text_d": "Is onze aanname juist?",
+    "text_e": "Kunt u een nadere toelichting geven?",
+    "text_f": "Hoe kunnen wij u ondersteunen?",
+    "text_g": "Uw antwoord",
+    "text_h": "U heeft deze vraag niet ingevuld."
+  }
+
+}

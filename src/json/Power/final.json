@@ -1,0 +1,18 @@
+{
+  "PlaceFinalText": {
+    "x": 6,
+    "y": 1.9,
+    "w": 2.7,
+    "h": 1.34
+  },
+  "FontFinalText":{
+    "fontSize": 8,
+    "fontFace": "Calibri",
+    "color": "FFFFFF",
+    "bold": false,
+    "align": "left",
+    "valign": "top",
+    "breakLine": true
+  }
+
+}

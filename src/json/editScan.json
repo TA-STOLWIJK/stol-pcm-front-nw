@@ -1,0 +1,30 @@
+{
+  "kans": {
+    "header": "Commerciële kans",
+    "desc": "Als jouw inschatting is dat deze QuickScan niet geschikt is voor deze klant zet dan jouw inschatting op negatief. Je ontvangt dan geen reminders meer voor deze klant."
+  },
+  "stijl": {
+    "header": "Communicatiestijl",
+    "desc": "Dit betreft alle communicatie zoals email berichten, pdf rapportages en gegenereerde PowerPoint presentaties."
+  },
+  "herinneringen": {
+    "header": "Herinneringen",
+    "desc": "Klant krijgt herinneringen na 3 en 7 dagen."
+  },
+  "specialist": {
+    "header": "Tweede relatiemanager of specialist",
+    "desc": "Er is een tweede relatiemanager of specialist betrokken. Ondertekening van email rapportages zijn van deze medewerker. (primair krijgt cc)"
+  },
+  "specialistName": {
+    "header": "Naam tweede relatiemanager of specialist",
+    "desc": "Selecteer een tweede relatiemanager of specialist"
+  },
+  "personalNote": {
+    "header": "Persoonlijke tekst",
+    "desc": "Mogelijkheid om een persoonlijke tekst aan uitnodiging toe te voegen"
+  },
+  "personalNoteText": {
+    "header": "Persoonlijke tekst",
+    "desc": "Geeft de tekst aan die je aan de uitnodiging wil toevoegen. Gebruik geen enters deze worden niet overgenomen."
+  }
+}

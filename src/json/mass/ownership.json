@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A",
+    "desc": "Familiegeleide onderneming"
+  },
+  {
+    "name": "B",
+    "desc": "DGA geleide onderneming"
+  },
+  {
+    "name": "C",
+    "desc": "Zakelijk partners"
+  },
+  {
+    "name": "D",
+    "desc": "Private equity"
+  },
+  {
+    "name": "E",
+    "desc": "Overig"
+  }
+]

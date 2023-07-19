@@ -1,0 +1,14 @@
+[
+  {
+    "value": 1,
+    "label": "Klein"
+  },
+  {
+    "value": 2,
+    "label": "Midden"
+  },
+  {
+    "value": 3,
+    "label": "Groot"
+  }
+]

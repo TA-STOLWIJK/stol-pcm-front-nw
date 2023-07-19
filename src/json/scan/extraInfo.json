@@ -1,0 +1,263 @@
+{
+  "Clients": {
+    "title": "Jouw klanten",
+    "desc": "Overzicht klanten waar jij relatiemamager bent",
+    "one": "Je ziet niet de klanten waar jij relatiemanager van bent."
+  },
+  "ClientsAll": {
+    "title": "Alle klanten",
+    "desc": "Overzicht van alle klanten",
+    "one": "Alle klanten behorend tot jouw team"
+  },
+  "ClientsAllTeams": {
+    "title": "Alle klanten",
+    "desc": "Overzicht van alle klanten",
+    "one": "Alle klanten behorend alle teams(admin functie)"
+  },
+  "changeView": {
+    "title": "Andere indeling",
+    "desc": "Wijzig de indeling",
+    "one": "Dit is een admin functie"
+  },
+  "moduleA": {
+    "title": "Noodplan",
+    "desc": "Inventarisatie noodplan",
+    "one": "Bescherming tegen gevolgen plotseling wegvallen ondernemer",
+    "two": "App, PDF, PowerPoint, in volgende stap volledig Noodplan",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Vaste prijs voor Noodplan BV"
+  },
+  "moduleB": {
+    "title": "Familiestatuut",
+    "desc": "Laat de klant kennismaken met het familiestatuut",
+    "one": "Inrichting familiebestuur door spelregels samen werken, leiden en besturen familiebedrijf",
+    "two": "App, PDF, PowerPoint, in volgende stap volledig Familiestatuut",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Vaste prijs voor tooling + begeleiding familieoverleg adviesuren x tarief"
+  },
+  "moduleC": {
+    "title": "Optimaal financieel pakket",
+    "desc": "Haal meer rendement met de administratie op orde",
+    "one": "Digitaal inrichten van financiële en administratieve processen",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleD": {
+    "title": "Sturen op resultaat",
+    "desc": "Meer GRIP op rendement",
+    "one": "(Digitaal) inrichten van stuurinformatie",
+    "two": "App, PDF, Powerpoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleE": {
+    "title": "Juridische aspecten",
+    "desc": "Is juridische ondersteuning gewenst?",
+    "one": "Inzichtelijk maken juridische risico's",
+    "two": "App, PDF, PowerPoint",
+    "three": "Specialist Juridische zaken voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleF": {
+    "title": "",
+    "desc": "",
+    "one": "tekst1",
+    "two": "tekst2",
+    "three": "tekst3",
+    "four": "tekst4"
+  },
+  "moduleG": {
+    "title": "",
+    "desc": "",
+    "one": "tekst1",
+    "two": "tekst2",
+    "three": "tekst3",
+    "four": "tekst4"
+  },
+  "moduleH": {
+    "title": "Exit planning",
+    "desc": "Heeft de klant een exit voor ogen?",
+    "one": "Inzicht geven in de voorbereiding op bedrijfsverkoop/-overdracht",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek, eventueel tezamen met specialist Corporate Finance",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleI": {
+    "title": "Cyber Security",
+    "desc": "Hoe staat het gesteld met de IT veiligheid?",
+    "one": "Inzicht geven in de risico's van cybercriminaliteit",
+    "two": "App, PDF, PowerPoint",
+    "three": "Doorverwijzing naar externe partij",
+    "four": "Afhankelijk van externe partij"
+  },
+  "moduleJ": {
+    "title": "Digitale strategie",
+    "desc": "Digitale strategie van de klant",
+    "one": "Inzicht in noodzaak formuleren digitale strategie",
+    "two": "App, PDF, PowerPoint",
+    "three": "Doorverwijzing naar externe partij",
+    "four": "Afhankelijk van externe partij"
+  },
+  "moduleK": {
+    "title": "Privé situatie",
+    "desc": "Is privé alles up to date?",
+    "one": "Inzicht in juridische/fiscale positie privé",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager, eventueel samen met fiscalist",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleL": {
+    "title": "Familiestatuut AGRO",
+    "desc": "Laat de klant kennismaken met het familiestatuut AGRO",
+    "one": "Inrichting familiebestuur door spelregels samen werken, leiden en besturen agrarisch familiebedrijf",
+    "two": "App, PDF, PowerPoint, in volgende stap volledig Familiestatuut",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Vaste prijs voor tooling + begeleiding familieoverleg adviesuren x tarief"
+  },
+  "moduleM": {
+    "title": "Groei",
+    "desc": "Ondersteun de ondernemer met groei",
+    "one": "Strategisch advies voor omzetgroei",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleN": {
+    "title": "Personal holding",
+    "desc": "Is de personal holding up to date?",
+    "one": "Bewustwording en inzicht risico's Personal holding",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek, eventueel tezamen met fiscalist",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleO": {
+    "title": "Pensioen",
+    "desc": "Pensioen voor medewerkers op orde?",
+    "one": "Inzicht voor de werkgever in gevolgen nieuwe pensioenwetgeving",
+    "two": "App, PDF, PowerPoint",
+    "three": "Pensioenadviseur",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleP": {
+    "title": "Update",
+    "desc": "Wat zijn de belangrijkste onderwerpen voor de klant",
+    "one": "Inventariseren van de adviesbehoefte",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleQ": {
+    "title": "Financial planning",
+    "desc": "Inzicht in de financiële situatie nu en in de toekomst",
+    "one": "Inzicht in de huidige en toekomstige inkomens- en vermogenspositie",
+    "two": "App, PDF, PowerPoint",
+    "three": "Financieel planner",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleR": {
+    "title": "Management informatie",
+    "desc": "Heeft de ondernemer behoefte aan management informatie",
+    "one": "Inventariseren behoefte aan (verbetering van) managementinformatie",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleS": {
+    "title": "In control abonnement",
+    "desc": "Onderzoek de wens naar een interim controller",
+    "one": "Inventariseren behoefte aan interim CFO",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleT": {
+    "title": "Duurzaamheid",
+    "desc": "Ondersteun de ondernemer met duurzaaheidsvragen",
+    "one": "Bewustwording en inzicht in thema duurzaamheid",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleU": {
+    "title": "Ambitie",
+    "desc": "Wat zijn de ambities en drijfveren van de ondernemer",
+    "one": "Inventariseren ondernemingsstrategie",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleV": {
+    "title": "Gebruikelijk loon",
+    "desc": "Worden de regels voor gebruikelijk loon gevolgd",
+    "one": "Inzicht in gevolgen Gebruikelijk Loon voor de DGA",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek, eventueel samen met een fiscalist",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleW": {
+    "title": "Werkgevers",
+    "desc": "Inzichten in......",
+    "one": "Inzicht in alle aspecten .......",
+    "two": "App, PDF, PowerPoint",
+    "three": "Specialist Personeel",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleX": {
+    "title": "",
+    "desc": "",
+    "one": "Inzicht in juiste toepassing BTW-problematiek",
+    "two": "App, PDF, PowerPoint",
+    "three": "Fiscalist",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleY": {
+    "title": "",
+    "desc": "",
+    "one": "Inzicht in juiste toepassing loonheffings-problematiek",
+    "two": "App, PDF, PowerPoint",
+    "three": "Specialist Personeel",
+    "four": "Kosten nog te bepalen"
+  },
+  "moduleZ": {
+    "title": "",
+    "desc": "",
+    "one": "Overzicht met eindejaarstips",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "moduleAB": {
+    "title": "Update",
+    "desc": "Wat zijn de belangrijkste onderwerpen voor de klant",
+    "one": "Inventariseren van de adviesbehoefte",
+    "two": "App, PDF, PowerPoint",
+    "three": "Relatiemanager voert zelfstandig het gesprek",
+    "four": "Adviesuren x tarief"
+  },
+  "mass": {
+    "title": "Collectieve acties",
+    "desc": "Verstuur meerdere QuickScans",
+    "one": "Dit is een marketing functie",
+    "two": "",
+    "three": "",
+    "four": ""
+  },
+  "users": {
+    "title": "Users",
+    "desc": "Wijzig users",
+    "one": "Dit is een admin functie",
+    "two": "",
+    "three": "",
+    "four": ""
+  },
+  "teams": {
+    "title": "Teams",
+    "desc": "Wijzig teams",
+    "one": "Dit is een admin functie",
+    "two": "",
+    "three": "",
+    "four": ""
+  }
+}
+

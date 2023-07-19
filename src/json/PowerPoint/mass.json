@@ -1,0 +1,45 @@
+{
+  "TableBlockLeftMassTwoCol": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 6,
+    "colW": [
+      3.5,
+      2.5
+    ],
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "TableBlockLeftMassTwoColOther": {
+    "x": 0.3,
+    "y": 1.0,
+    "w": 6,
+    "colW": [
+      1.5,
+      4.5
+    ],
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "TableBlockRightMassTwoCol": {
+    "x": 3.9,
+    "y": 1.0,
+    "w": 6,
+    "colW": [
+      5.5,
+      0.5
+    ],
+    "fontFace": "Calibri",
+    "fontSize": 12,
+    "color": "404040"
+  },
+  "PlaceTextBlockDown": {
+    "x": 0.3,
+    "y": 4.3,
+    "w": 9.4,
+    "h": 0.5,
+    "valign": "top"
+  }
+}

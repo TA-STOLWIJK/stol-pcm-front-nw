@@ -1,0 +1,15 @@
+[
+  {
+    "label": "Face to face",
+    "value": "face"
+  },
+  {
+    "label": "Telefonisch",
+    "value": "phone"
+  },
+  {
+    "label": "Online",
+    "value": "online"
+  }
+
+]
