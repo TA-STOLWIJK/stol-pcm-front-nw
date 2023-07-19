@@ -1,7 +1,7 @@
 <script setup>
 import ThemeButton from '@/layout/themeButton.vue'
 import RouterLinkDefault from '@/components/mainStyle/RouterLinkDefault.vue'
-import { useAuth } from '@/stores/authStore'
+import { useAuth } from '@/stores/AuthStore'
 const authStore = useAuth()
 </script>
 

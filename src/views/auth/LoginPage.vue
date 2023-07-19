@@ -1,5 +1,5 @@
 <script setup>
-import { useAuth } from '@/stores/authStore'
+import { useAuth } from '@/stores/AuthStore'
 const authStore = useAuth()
 import { ref } from 'vue'
 import FlashMessage from '@/components/form/FlashMessage.vue'

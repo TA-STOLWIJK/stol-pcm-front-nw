@@ -1,4 +1,4 @@
-import { useAuth } from '@/stores/authStore'
+import { useAuth } from '@/stores/AuthStore'
 // import { useUser } from "@/stores/userStore";
 
 const guestAuthRoutes = ['login', '/']
