@@ -43,10 +43,6 @@ const two_factor_code = ref(null)
               />
             </div>
 
-            <div class="mb-3 flex flex-wrap content-center">
-              <a href="#" class="text-xs font-bold text-purple-700">Gebruikersnaam vergeten?</a>
-            </div>
-
             <div class="mb-3">
               <button
                 class="mb-1.5 block w-full text-center text-white bg-purple-700 hover:bg-purple-900 px-2 py-1.5 rounded-md"

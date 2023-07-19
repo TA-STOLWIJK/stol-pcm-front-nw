@@ -431,7 +431,7 @@ onMounted(() => {
               <RowTablePCM
                 title="Noodplan"
                 desc="Inventarisatie tbv noodplan"
-                :onclick-go="goQuick"
+                :onclick-go="goQuickA"
                 :inner-all="allScanStore.allScans.ascan"
                 :onclick-desc="goDescA"
                 :onclick-video="goVideoA"
