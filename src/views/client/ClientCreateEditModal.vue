@@ -10,6 +10,8 @@ import genderClient from '@/json/genderClient.json'
 import ownerShip from '@/json/ownership.json'
 import profile from '@/json/profile.json'
 import size from '@/json/size.json'
+import cyclus from '@/json/cyclus.json'
+import kind from '@/json/kind.json'
 import { useSingleClient } from '@/stores/client/clientSingleStore'
 import { useClients } from '@/stores/client/clientStore'
 import { useTeams } from '@/stores/team/teamStore'
@@ -233,6 +235,26 @@ onMounted(() => {
               validation="required"
               validation-visibility="dirty"
               :options="profile"
+            />
+            <FormKit
+              type="radio"
+              label="Levenscyclus"
+              name="Levenscyclus"
+              v-model="clientSingleStore.cyclus_client"
+              placeholder="Cyclus"
+              validation="required"
+              validation-visibility="dirty"
+              :options="cyclus"
+            />
+            <FormKit
+              type="radio"
+              label="Soort ondernemer"
+              name="Soort ondernemer"
+              v-model="clientSingleStore.kind_client"
+              placeholder="Soort"
+              validation="required"
+              validation-visibility="dirty"
+              :options="kind"
             />
           </div>
         </FormKit>

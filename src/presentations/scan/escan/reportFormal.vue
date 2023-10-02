@@ -100,8 +100,8 @@ export default {
       slideIntroA.addImage({
         path: '../img/eScan/eIntro1.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideIntroA.addText(
         [{ text: this.sheetText['intro-1'].header, options: this.fontHeader }],
@@ -139,8 +139,8 @@ export default {
       slideQuesA.addImage({
         path: '../img/eScan/eQuestionA.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowA = []
       rowA.push([{ text: this.sheetText['ques-1'].text_a }])
@@ -171,8 +171,8 @@ export default {
       slideQuesB.addImage({
         path: '../img/eScan/eQuestionB.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowB = []
       rowB.push([{ text: this.sheetText['ques-2'].text_a }])
@@ -217,8 +217,8 @@ export default {
       slideQuesC.addImage({
         path: '../img/eScan/eQuestionC.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowC = []
       rowC.push([{ text: this.sheetText['ques-3'].text_a }])
@@ -264,8 +264,8 @@ export default {
       slideQuesD.addImage({
         path: '../img/eScan/eQuestionD.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowD = []
       rowD.push([{ text: this.sheetText['ques-4'].text_a }])
@@ -334,8 +334,8 @@ export default {
       slideQuesE.addImage({
         path: '../img/eScan/eQuestionE.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowE = []
       rowE.push([{ text: this.sheetText['ques-5'].text_a }])
@@ -403,8 +403,8 @@ export default {
       slideQuesF.addImage({
         path: '../img/eScan/eQuestionF.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowF = []
       rowF.push([{ text: this.sheetText['ques-6'].text_a }])
@@ -453,8 +453,8 @@ export default {
       slideQuesG.addImage({
         path: '../img/eScan/eQuestionG.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowG = []
       rowG.push([{ text: this.sheetText['ques-7'].text_a }])
@@ -522,8 +522,8 @@ export default {
       slideQuesH.addImage({
         path: '../img/eScan/eQuestionH.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowH = []
       rowH.push([{ text: this.sheetText['ques-8'].text_a }])

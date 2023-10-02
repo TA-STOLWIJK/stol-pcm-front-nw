@@ -108,8 +108,8 @@ export default {
       slideIntroA.addImage({
         path: '../img/bScan/introA.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideIntroA.addText(
         [
@@ -143,8 +143,8 @@ export default {
       slideQuesA.addImage({
         path: '../img/eScan/eQuestionG.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesA.addText(
         [{ text: this.sheetText['ques-a'].header, options: this.fontHeader }],
@@ -215,8 +215,8 @@ export default {
       slideQuesB.addImage({
         path: '../img/cScan/question_g.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesB.addText(
         [{ text: this.sheetText['ques-b'].header, options: this.fontHeader }],
@@ -274,8 +274,8 @@ export default {
       slideQuesC.addImage({
         path: '../img/cScan/question_e.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesC.addText(
         [{ text: this.sheetText['ques-c'].header, options: this.fontHeader }],
@@ -346,8 +346,8 @@ export default {
       slideQuesD.addImage({
         path: '../img/aScan/propC.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesD.addText(
         [{ text: this.sheetText['ques-d'].header, options: this.fontHeader }],
@@ -418,8 +418,8 @@ export default {
       slideQuesE.addImage({
         path: '../img/cScan/question_h.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesE.addText(
         [{ text: this.sheetText['ques-e'].header, options: this.fontHeader }],
@@ -464,8 +464,8 @@ export default {
       slideQuesF.addImage({
         path: '../img/nScan/familie_groen.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesF.addText(
         [{ text: this.sheetText['ques-f'].header, options: this.fontHeader }],
@@ -508,8 +508,8 @@ export default {
       slideQuesG.addImage({
         path: '../img/nScan/update_watch.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesG.addText(
         [{ text: this.sheetText['ques-g'].header, options: this.fontHeader }],
@@ -563,8 +563,8 @@ export default {
       slideQuesH.addImage({
         path: '../img/cScan/question_f.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesH.addText(
         [{ text: this.sheetText['ques-h'].header, options: this.fontHeader }],
@@ -607,8 +607,8 @@ export default {
       slideQuesI.addImage({
         path: '../img/nScan/bulb.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideQuesI.addText(
         [{ text: this.sheetText['ques-i'].header, options: this.fontHeader }],

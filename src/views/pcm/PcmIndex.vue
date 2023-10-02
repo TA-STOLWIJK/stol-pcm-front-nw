@@ -402,16 +402,17 @@ onMounted(() => {
           <table class="min-w-full divide-y divide-gray-200">
             <HeaderTablePcm />
             <tbody class="divide-y divide-gray-200">
+              <!--              <RowTablePCM-->
+              <!--               -->
+              <!--                title="Update"-->
+              <!--                desc="Wat zijn de belangrijkste onderwerpen voor de klant"-->
+              <!--                :onclick-go="goQuickP"-->
+              <!--                :inner-all="allScanStore.allScans.pscan"-->
+              <!--                :onclick-desc="goDescP"-->
+              <!--                :onclick-video="goVideoP"-->
+              <!--              />-->
               <RowTablePCM
                 title="Update"
-                desc="Wat zijn de belangrijkste onderwerpen voor de klant"
-                :onclick-go="goQuickP"
-                :inner-all="allScanStore.allScans.pscan"
-                :onclick-desc="goDescP"
-                :onclick-video="goVideoP"
-              />
-              <RowTablePCM
-                title="Update 2"
                 desc="Wat zijn de belangrijkste onderwerpen voor de klant"
                 :onclick-go="goQuickAB"
                 :inner-all="allScanStore.allScans.abscan"

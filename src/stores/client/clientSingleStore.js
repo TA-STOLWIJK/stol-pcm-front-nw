@@ -23,6 +23,8 @@ export const useSingleClient = defineStore({
     branch_client: null,
     size_client: null,
     ownership_client: null,
+    cyclus_client: null,
+    kind_client:null,
     error: null,
     loading: false
   }),
@@ -49,6 +51,8 @@ export const useSingleClient = defineStore({
         this.branch_client = response.data.data.branch_client
         this.size_client = response.data.data.size_client
         this.ownership_client = response.data.data.ownership_client
+        this.cyclus_client = response.data.data.cyclus_client
+        this.kind_client = response.data.data.kind_client
         this.loading = false
         return response
       } catch (error) {
@@ -77,6 +81,8 @@ export const useSingleClient = defineStore({
           branch_client: this.branch_client,
           size_client: this.size_client,
           ownership_client: this.ownership_client,
+          cyclus_client: this.cyclus_client,
+          kind_client: this.kind_client,
           style_client: this.style_client
         }
         await ClientService.postClient(payload)
@@ -108,6 +114,8 @@ export const useSingleClient = defineStore({
           branch_client: this.branch_client,
           size_client: this.size_client,
           ownership_client: this.ownership_client,
+          cyclus_client: this.cyclus_client,
+          kind_client: this.kind_client,
           style_client: this.style_client
         }
 
@@ -154,6 +162,8 @@ export const useSingleClient = defineStore({
       this.branch_client = null
       this.size_client = null
       this.ownership_client = null
+      this.cyclus_client = null
+      this.kind_client = null
       this.error = null
       this.loading = false
       this.error = null

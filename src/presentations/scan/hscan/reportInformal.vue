@@ -108,7 +108,8 @@ export default {
       slideIntroA.addImage({
         path: "../img/aScan/introA.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slideIntroA.addText(
         [
@@ -151,7 +152,8 @@ export default {
       slideIntroB.addImage({
         path: "../img/aScan/introB.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slideIntroB.addText(
         [

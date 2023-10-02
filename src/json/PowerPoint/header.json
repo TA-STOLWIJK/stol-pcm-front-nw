@@ -1,15 +1,16 @@
 {
   "FontHeader": {
-    "fontFace": "Calibri",
-    "fontSize": 20,
-    "color": "003895",
+    "fontFace": "Trebuchet MS",
+    "fontSize": 16,
+    "color": "ffffff",
     "valign": "top"
   },
   "PlaceHeader": {
-    "x": 0.30,
-    "y": 0.30,
-    "w": 6.8,
-    "h": 0.4,
-    "valign": "top"
+    "x": 5.92,
+    "y": 0.53,
+    "w": 4,
+    "h": 0.6,
+    "align": "center",
+    "valign": "center"
   }
 }

@@ -3,10 +3,10 @@ export default {
     return {
       finalSlide: {
         title: "FINAL",
-        bkgd: "FFFFFF",
+        background: "FFFFFF",
         objects: [
           {
-            rect: { x: 5.5, y: 0, w: 4.5, h: 5.63, fill: { color: "003895" } },
+            rect: { x: 5.5, y: 0, w: 4.5, h: 5.63, fill: { color: "595959" } },
           },
           {
             text: {
@@ -16,9 +16,9 @@ export default {
                 y: 2.2,
                 w: 2,
                 h: 0.35,
-                fontFace: "Calibri",
+                fontFace: "Trebuchet MS",
                 fontSize: 14,
-                color: "003895",
+                color: "C00000",
                 valign: "top",
                 bold: true,
               },
@@ -26,23 +26,46 @@ export default {
           },
           {
             image: {
-              x: 6.78,
-              y: 4.35,
-              w: 1.94,
-              h: 0.86,
-              path: "../img/logo.png",
+              x: 6.16,
+              y: 4.54,
+              w: 3.18,
+              h: 0.57,
+              path: "../img/logo_stol2.png",
             },
           },
         ],
       },
       dataStart: {
         title: "FIRST_SLIDE",
-        bkgd: "FFFFFF",
+        background: { path: "../img/stol_back.jpg" },
         objects: [
           {
-            image: { x: 7.35, y: 0.35, w: 2.25, h: 1, path: "../img/logo.png" },
+            rect: {
+              x: 0,
+              y: 5.53,
+              w: 10,
+              h: 0.19,
+              fill: { color: "C00000" },
+            },
           },
-          { image: { x: 0, y: 5.2, w: 3.5, h: 0.17, path: "../img/line.png" } },
+          {
+            rect: {
+              x: 5,
+              y: 0.5,
+              w: 5,
+              h: 0.8,
+              fill: { color: "C00000" },
+            },
+          },
+          {
+            image: {
+              x: 6.82,
+              y: 4.99,
+              w: 3.18,
+              h: 0.57,
+              path: "../img/logo_stol2.png",
+            },
+          },
         ],
       },
     };

@@ -108,8 +108,8 @@ export default {
       slideIntroA.addImage({
         path: '../img/kScan/kIntroA.jpeg',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       if (this.dataScan.question_b === 'ke2') {
         slideIntroA.addText(
@@ -168,8 +168,8 @@ export default {
       slideQuesA.addImage({
         path: '../img/kScan/kIntroB.jpeg',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       let rowA = []
       rowA.push([{ text: this.sheetText['ques-a'].intro, options: this.fontTextBlock }])

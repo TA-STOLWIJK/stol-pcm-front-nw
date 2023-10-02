@@ -7,9 +7,9 @@
       3.5,
       2.5
     ],
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
-    "color": "404040"
+    "color": "FFFFFF"
   },
   "TableBlockLeftMassTwoColOther": {
     "x": 0.3,
@@ -19,9 +19,9 @@
       1.5,
       4.5
     ],
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
-    "color": "404040"
+    "color": "FFFFFF"
   },
   "TableBlockRightMassTwoCol": {
     "x": 3.9,
@@ -31,9 +31,9 @@
       5.5,
       0.5
     ],
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
-    "color": "404040"
+    "color": "FFFFFF"
   },
   "PlaceTextBlockDown": {
     "x": 0.3,

@@ -106,7 +106,8 @@ export default {
       slideIntroA.addImage({
         path: "../img/bScan/introA.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slideIntroA.addText(
         [
@@ -153,7 +154,8 @@ export default {
       slideIntroB.addImage({
         path: "../img/bScan/introB2.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slideIntroB.addText(
         [
@@ -802,7 +804,8 @@ export default {
       slidePropA.addImage({
         path: "../img/bScan/propA.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slidePropA.addText(
         [
@@ -845,7 +848,8 @@ export default {
       slidePropB.addImage({
         path: "../img/bScan/propB.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slidePropB.addText(
         [
@@ -890,7 +894,8 @@ export default {
       slidePropC.addImage({
         path: "../img/bScan/propC.png",
         placeholder: "Photo",
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       });
       slidePropC.addText(
         [

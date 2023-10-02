@@ -25,7 +25,8 @@ export default {
   mixins: [defaultSlideA, defaultSlideAll],
   data() {
     return {
-      placeRight: { w: 3.53, h: 4.41  },
+      placeRight: {w: 2.86,
+        h: 3.57  },
       fontFirstPageHeader: firstPage.FontFirstPageHeader,
       placeFirstPageHeader: firstPage.PlaceFirstPageHeader,
       fontFirstPageSubHeader: firstPage.FontFirstPageSubHeader,
@@ -110,7 +111,8 @@ export default {
       slideIntroA.addImage({
         path: '../img/aScan/introA.png',
         placeholder: 'Photo',
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideIntroA.addText(
         [
@@ -153,8 +155,8 @@ export default {
       slideIntroB.addImage({
         path: '../img/aScan/introB.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideIntroB.addText(
         [
@@ -870,7 +872,8 @@ export default {
       slidePropA.addImage({
         path: '../img/aScan/propA.png',
         placeholder: 'Photo',
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slidePropA.addText(
         [
@@ -910,7 +913,8 @@ export default {
       slidePropB.addImage({
         path: '../img/aScan/propB.png',
         placeholder: 'Photo',
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slidePropB.addText(
         [
@@ -956,7 +960,8 @@ export default {
       slidePropC.addImage({
         path: '../img/aScan/propC.png',
         placeholder: 'Photo',
-        w: 3.53, h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       if (this.dataScan.int_question_a === 'ke1') {
         slidePropC.addText(

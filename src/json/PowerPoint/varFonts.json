@@ -1,14 +1,14 @@
 {
   "FontTextBlock":
   {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "breakLine": true
   },
   "FontTextBlockAlignCenter":
   {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "breakLine": true,
@@ -16,7 +16,7 @@
   },
   "FontTextBlockBold":
   {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "breakLine": true,
@@ -24,7 +24,7 @@
   },
   "FontTextBlockBullet":
   {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "valign": "top",
@@ -32,26 +32,26 @@
     "breakLine": true
   },
   "FontTextBlockHeader": {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "breakLine": true
   },
   "FontTextBlockLeftHeader": {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "0088cc",
     "breakLine": true
   },
   "FontTextBlockNoNewLine": {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "valign": "top"
   },
   "FontTextBlockNormal":
   {
-    "fontFace": "Calibri",
+    "fontFace": "Trebuchet MS",
     "fontSize": 12,
     "color": "404040",
     "valign": "top"

@@ -35,6 +35,8 @@ export const useSingleMass = defineStore({
           name_scan: this.massData.name_scan,
           sel_branch: this.massData.sel_branch,
           sel_profile: this.massData.sel_profile,
+          sel_cyclus: this.massData.sel_cyclus,
+          sel_kind: this.massData.sel_kind,
           sel_owner: this.massData.sel_owner,
           sel_size: this.massData.sel_size,
           sel_teams: this.massData.sel_teams,
@@ -60,6 +62,8 @@ export const useSingleMass = defineStore({
           sel_profile: this.massData.sel_profile,
           sel_owner: this.massData.sel_owner,
           sel_size: this.massData.sel_size,
+          sel_cyclus: this.massData.sel_cyclus,
+          sel_kind: this.massData.sel_kind,
           sel_teams: this.massData.sel_teams,
           sel_users: this.massData.sel_users,
         }

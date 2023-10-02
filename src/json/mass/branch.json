@@ -5,30 +5,50 @@
   },
   {
     "name": 2,
-    "desc": "Agrarisch"
-  },
-  {
-    "name": 3,
     "desc": "Zakelijke dienstverlening"
   },
   {
-    "name": 4,
+    "name": 3,
     "desc": "Persoonlijke dienstverlening"
   },
   {
+    "name": 4,
+    "desc": "Family Office"
+  },
+  {
     "name": 5,
-    "desc": "Transport"
+    "desc": "Transport en Logistiek"
   },
   {
     "name": 6,
-    "desc": "Leisure"
+    "desc": "Horeca en recreatie"
   },
   {
     "name": 7,
-    "desc": "Onroerend goed"
+    "desc": "Handel"
   },
   {
     "name": 8,
+    "desc": "Zorg"
+  },
+  {
+    "name": 9,
+    "desc": "Medisch specialisten"
+  },
+  {
+    "name": 10,
+    "desc": "Industrie"
+  },
+  {
+    "name": 11,
+    "desc": "Automotive"
+  },
+  {
+    "name": 12,
+    "desc": "Publieke sector"
+  },
+  {
+    "name": 13,
     "desc": "Overig"
   }
 ]

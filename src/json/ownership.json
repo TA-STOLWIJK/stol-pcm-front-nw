@@ -13,10 +13,23 @@
   },
   {
     "value": "D",
-    "label": "Private equity"
+    "label": "VOF / Eenmanszaak"
   },
   {
     "value": "E",
-    "label": "Overig"
+    "label": "Maatschap"
+  },
+  {
+    "value": "F",
+    "label": "Publiek"
+  },
+  {
+    "value": "G",
+    "label": "Stichting"
+  },
+  {
+    "value": "H",
+    "label": "Anders"
   }
+
 ]

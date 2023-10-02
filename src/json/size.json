@@ -1,14 +1,18 @@
 [
   {
     "value": 1,
-    "label": "Klein"
+    "label": "Micro (< 500k)"
   },
   {
     "value": 2,
-    "label": "Midden"
+    "label": "Klein(500k < 1.5m)"
   },
   {
     "value": 3,
-    "label": "Groot"
+    "label": "Middel(1.5m < 10m) "
+  },
+  {
+    "value": 4,
+    "label": "Groot(> 10m)"
   }
 ]

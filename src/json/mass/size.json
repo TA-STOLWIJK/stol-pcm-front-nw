@@ -1,14 +1,18 @@
 [
   {
     "name": 1,
-    "desc": "Klein"
+    "desc": "Micro (< 500k)"
   },
   {
     "name": 2,
-    "desc": "Midden"
+    "desc": "Klein(500k < 1.5m)"
   },
   {
     "name": 3,
-    "desc": "Groot"
+    "desc": "Middel(1.5m < 10m) "
+  },
+  {
+    "name": 4,
+    "desc": "Groot(> 10m)"
   }
 ]

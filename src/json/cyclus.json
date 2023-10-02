@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A",
+    "label": "A. Start"
+  },
+  {
+    "value": "B",
+    "label": "B. Groei"
+  },
+  {
+    "value": "C",
+    "label": "C. Consolidatie"
+  },
+  {
+    "value": "D",
+    "label": "D. (Her) structurering"
+  },
+  {
+    "value": "E",
+    "label": "E. Exit"
+  }
+]

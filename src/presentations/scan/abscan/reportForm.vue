@@ -112,8 +112,8 @@ export default {
       slideIntroA.addImage({
         path: '../img/bScan/introA.png',
         placeholder: 'Photo',
-        w: 3.53,
-        h: 4.41
+       w: 2.86,
+        h: 3.57
       })
       slideIntroA.addText(
         [

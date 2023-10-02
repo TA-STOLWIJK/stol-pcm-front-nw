@@ -9,6 +9,8 @@ import scans from '@/json/mass/scans.json'
 import ownership from '@/json/ownership.json'
 import profile from '@/json/profile.json'
 import size from '@/json/size.json'
+import cyclus from '@/json/cyclus.json'
+import kind from '@/json/kind.json'
 import { useSingleMass } from '@/stores/mass/massSingleStore'
 import { useMass } from '@/stores/mass/massStore'
 import { useTeams } from '@/stores/team/teamStore'
@@ -134,6 +136,21 @@ onMounted(() => {
               :options="profile"
               validation="required|min:1"
             />
+            <FormKit
+              v-model="massSingleStore.massData.sel_cyclus"
+              type="checkbox"
+              label="Levenscyclus"
+              :options="cyclus"
+              validation="required|min:1"
+            />
+            <FormKit
+              v-model="massSingleStore.massData.sel_kind"
+              type="checkbox"
+              label="Levenscyclus"
+              :options="kind"
+              validation="required|min:1"
+            />
+
           </div>
           <DividerTable />
           <HeaderTwo>Selectie van teams en gebruikers</HeaderTwo>

@@ -3,7 +3,7 @@ export default {
     return {
       dataScanM: {
         title: "M_SLIDE",
-        background: "FFFFFF",
+        bkgd: "FFFFFF",
         objects: [
           {
             text: {
@@ -13,7 +13,7 @@ export default {
                 y: 5.23,
                 w: 6.5,
                 h: 0.33,
-                fontFace: "Calibri",
+                fontFace: "Trebuchet MS",
                 fontSize: 6.8,
                 charSpacing: 10,
                 color: "9D968D",
@@ -21,28 +21,45 @@ export default {
               },
             },
           },
-          { image: { x: 0, y: 5.1, w: 3.5, h: 0.17, path: "../img/line.png" } },
+          {
+            rect: {
+              x: 5.84,
+              y: 0.49,
+              w: 4.16,
+              h: 0.67,
+              fill: { color: "C00000" },
+            },
+          },
+          {
+            rect: {
+              x: 0,
+              y: 5.53,
+              w: 10,
+              h: 0.11,
+              fill: { color: "C00000" },
+            },
+          },
           {
             image: {
-              x: 8.9,
-              y: 5.1,
-              w: 0.88,
-              h: 0.39,
-              path: "../img/logo.png",
+              x: 6.82,
+              y: 4.87,
+              w: 3.18,
+              h: 0.57,
+              path: "../img/logo_stol2.png",
             },
           },
         ],
         slideNumber: {
           x: 0.42,
           y: 5.23,
-          fontFace: "Calibri",
+          fontFace: "Trebuchet MS",
           fontSize: 6.8,
           color: "9D968D",
         },
       },
       dataScanM_Photo: {
         title: "M_SLIDE_Photo",
-        background: "FFFFFF",
+        bkgd: "FFFFFF",
         objects: [
           {
             text: {
@@ -52,7 +69,7 @@ export default {
                 y: 5.23,
                 w: 6.5,
                 h: 0.33,
-                fontFace: "Calibri",
+                fontFace: "Trebuchet MS",
                 fontSize: 6.8,
                 charSpacing: 10,
                 color: "9D968D",
@@ -60,14 +77,31 @@ export default {
               },
             },
           },
-          { image: { x: 0, y: 5.1, w: 3.5, h: 0.17, path: "../img/line.png" } },
+          {
+            rect: {
+              x: 5.84,
+              y: 0.49,
+              w: 4.16,
+              h: 0.67,
+              fill: { color: "C00000" },
+            },
+          },
+          {
+            rect: {
+              x: 0,
+              y: 5.53,
+              w: 10,
+              h: 0.11,
+              fill: { color: "C00000" },
+            },
+          },
           {
             image: {
-              x: 8.9,
-              y: 5.1,
-              w: 0.88,
-              h: 0.39,
-              path: "../img/logo.png",
+              x: 6.82,
+              y: 4.87,
+              w: 3.18,
+              h: 0.57,
+              path: "../img/logo_stol2.png",
             },
           },
           {
@@ -75,10 +109,10 @@ export default {
               options: {
                 name: "Photo",
                 type: "image",
-                x: 6.47,
-                y: 0.46,
-                w: 3.53,
-                h: 4.41,
+                x: 6.7,
+                y: 1.23,
+                w: 2.86,
+                h: 3.57,
               },
             },
           },
@@ -86,7 +120,7 @@ export default {
         slideNumber: {
           x: 0.42,
           y: 5.23,
-          fontFace: "Calibri",
+          fontFace: "Trebuchet MS",
           fontSize: 6.8,
           color: "9D968D",
         },
